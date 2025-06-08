@@ -1,9 +1,7 @@
-package sistema;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class ProgramaFuncionario {
+public class FuncionarioMain {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         ArrayList<Funcionario> lista = new ArrayList<>();

@@ -1,8 +1,6 @@
-package arraysmultidimensionais;
-
 import java.util.Scanner;
 
-public class ProgramaSomaDiagMatriz {
+public class SomaDiagMatrizMain {
     public static void main (String[] args){
         Scanner sc = new Scanner(System.in);
         SomaDiagMatriz diag = new SomaDiagMatriz();

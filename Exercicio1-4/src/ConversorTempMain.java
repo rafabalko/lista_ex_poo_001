@@ -1,8 +1,6 @@
-package metodos;
-
 import java.util.Scanner;
 
-public class ProgramaConversorTemperatura {
+public class ConversorTempMain {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 

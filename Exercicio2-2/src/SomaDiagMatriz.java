@@ -1,5 +1,3 @@
-package arraysmultidimensionais;
-
 public class SomaDiagMatriz {
 
     public int somaDP(int[][] matriz, int tam){

@@ -1,5 +1,3 @@
-package arraysmultidimensionais;
-
 public class MaiorEMenor {
 
     public int encontrarMaior(int[][] m, int l, int c) {

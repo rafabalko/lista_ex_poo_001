@@ -1,8 +1,6 @@
-package arraysmultidimensionais;
-
 import java.util.Scanner;
 
-public class ProgramaMaiorEMenor {
+public class MaiorEMenorMain {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         MaiorEMenor util = new MaiorEMenor();

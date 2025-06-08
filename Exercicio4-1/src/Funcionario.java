@@ -1,5 +1,3 @@
-package sistema;
-
 public class Funcionario {
     String nome;
     int id;

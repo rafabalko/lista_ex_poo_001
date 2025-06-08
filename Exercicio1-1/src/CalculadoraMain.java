@@ -1,8 +1,6 @@
-package metodos;
-
 import java.util.Scanner;
 
-public class ProgramaCalculadora {
+public class CalculadoraMain {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 

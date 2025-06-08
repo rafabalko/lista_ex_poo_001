@@ -1,8 +1,6 @@
-package objetos;
-
 import java.util.Scanner;
 
-public class ProgramaNumero {
+public class NumeroMain {
     public static void main (String[] args){
         Scanner sc = new Scanner(System.in);
         Numero n = new Numero();

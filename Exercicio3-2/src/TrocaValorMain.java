@@ -1,8 +1,6 @@
-package objetos;
-
 import java.util.Scanner;
 
-public class ProgramaTroca {
+public class TrocaValorMain {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

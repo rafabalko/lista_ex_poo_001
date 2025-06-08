@@ -1,5 +1,3 @@
-package metodos;
-
 public class Fatorial{
 
     public int calcularFatorial(int n){

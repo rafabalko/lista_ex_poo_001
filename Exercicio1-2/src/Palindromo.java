@@ -1,5 +1,3 @@
-package metodos;
-
 public class Palindromo {
 
     public boolean verPalindromo(String txt){

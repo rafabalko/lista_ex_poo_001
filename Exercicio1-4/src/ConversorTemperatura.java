@@ -1,5 +1,3 @@
-package metodos;
-
 public class ConversorTemperatura {
 
     public double cParaF(double c){

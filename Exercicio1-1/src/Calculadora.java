@@ -1,5 +1,3 @@
-package metodos;
-
 public class Calculadora {
 
     double n1;

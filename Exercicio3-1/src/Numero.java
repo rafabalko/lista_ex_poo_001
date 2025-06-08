@@ -1,5 +1,3 @@
-package objetos;
-
 public class Numero {
     int valor;
 
