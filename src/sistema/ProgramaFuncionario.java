@@ -32,14 +32,14 @@ public class ProgramaFuncionario {
                 System.out.print("Departamento: ");
                 func.departamento = sc.nextLine();
                 lista.add(func);
-                System.out.print("Funcionário cadastrado com sucesso!");
+                System.out.print("\nFuncionário cadastrado com sucesso!\n");
 
             } else if (opcao == 2){
-                System.out.print("\n--- FUNCIONÁRIOS CADASTRADOS ---");
+                System.out.print("\n--- FUNCIONÁRIOS CADASTRADOS ---\n");
                 for (Funcionario func : lista){
                     System.out.println("ID: " + func.id);
                     System.out.println("Nome: " + func.nome);
-                    System.out.println("Salário: R$ %.2f\n" + func.salario);
+                    System.out.println("Salário: R$" + func.salario);
                     System.out.println("Departamento: " + func.departamento);
                     System.out.println("--------------------------------");
                 }
